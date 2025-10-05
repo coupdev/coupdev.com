@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact",
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {},
+    "types": ["vite/client"],
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": ["vite.config.ts", "src"],
+  "exclude": ["node_modules", "dist"]
+}
