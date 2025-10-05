@@ -2,14 +2,6 @@
 
 Personal link collection website built with Preact and Vite.
 
-## 🚀 Features
-
-- **Responsive Grid Layout** - Adaptive design for all devices
-- **Custom Icons** - SVG icons for each platform
-- **Rotating Title** - Dynamic page title animation
-- **External Images** - High-quality background images
-- **Modern UI** - Clean and minimalist design
-
 ## 🛠️ Tech Stack
 
 - **Framework:** Preact + TypeScript
