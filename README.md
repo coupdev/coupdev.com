@@ -20,7 +20,7 @@ Minimalism, clean UI and convenience
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=preact,vite,typescript,html,css,github" />
+  <img src="https://skillicons.dev/icons?i=react,vite,typescript,html,css" />
 </p>
 
 - **Framework:** Preact + TypeScript  
