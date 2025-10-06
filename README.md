@@ -29,11 +29,6 @@ Minimalism, clean UI and convenience
 
 ---
 
-### 📦 Installation
-
-```bash
-npm install
-
 ## 📦 Installation
 
 ```bash
