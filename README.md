@@ -49,4 +49,6 @@ npm run build
 
 ## 📄 License
 
-MIT License - feel free to use as inspiration for your own link collection site.
+MIT License © 2025 Coupdev  
+Based on [nitreojs/starkow.dev](https://github.com/nitreojs/starkow.dev), licensed under MIT.
+
