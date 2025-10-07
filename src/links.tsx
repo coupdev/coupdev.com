@@ -19,7 +19,7 @@ export const LINKS: LinkItem[] = [
   { id: 'steam', text: 'steam', description: 'gaming profile', url: 'https://steamcommunity.com/id/coupick/', photoUrl: 'http://i.faustyu.xyz/icons/coup/steam.JPG', icon: <IconSteam /> },
   { id: 'instagram', url: 'https://www.instagram.com/coupdev', photoUrl: 'http://i.faustyu.xyz/icons/coup/instagram.JPG', icon: <IconInstagram />, isIconCentered: true },
   { id: 'tiktok', url: 'https://www.tiktok.com/@coupdev', photoUrl: 'http://i.faustyu.xyz/icons/coup/tiktok.JPG', icon: <IconTikTok />, isIconCentered: true },
-  { id: 'music', text: 'music', description: 'my music', url: 'https://t.me/+nx2IVVgeNOBkZWUy', photoUrl: 'https://i.pinimg.com/564x/d7/31/66/d73166e23f776ead27f07fac5a435d70.jpg', icon: <IconMusic /> },
+  { id: 'music', text: 'music', description: 'my music', url: 'https://t.me/coupsmusic', photoUrl: 'https://i.pinimg.com/564x/d7/31/66/d73166e23f776ead27f07fac5a435d70.jpg', icon: <IconMusic /> },
   { id: 'donate', text: 'donate', description: 'support me', url: 'https://t.me/send?start=IVvu4P6BpsVb', photoUrl: 'http://i.faustyu.xyz/icons/coup/donate.JPG', icon: <IconDonate /> },
   { id: 'sources', text: 'sources', description: 'sources of this site', url: 'https://github.com/coupdev/coupdev.com', photoUrl: 'http://i.faustyu.xyz/icons/coup/about.JPG', icon: <IconGitHub /> },
 ]
