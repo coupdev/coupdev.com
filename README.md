@@ -23,7 +23,8 @@ Minimalism, clean UI and convenience
   <img src="https://skillicons.dev/icons?i=react,vite,typescript,html,css" />
 </p>
 
-**Framework:** Preact + TypeScript  
+**Framework:** Preact
+**Language:** TypeScript
 **Build Tool:** Vite  
 **Styling:** CSS Grid + Custom CSS    
 
