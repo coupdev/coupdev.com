@@ -13,7 +13,7 @@ export interface LinkItem {
 }
 
 export const LINKS: LinkItem[] = [
-  { id: 'telegram', text: 'telegram', description: 'my telegram', url: 'https://t.me/coupdev', photoUrl: 'http://i.faustyu.xyz/icons/coup/telegram.jpg', icon: <IconTelegram /> },
+  { id: 'telegram', text: 'telegram', description: 'my telegram', url: 'https://t.me/coupdev', photoUrl: 'http://i.faustyu.xyz/icons/coup/telegram.JPG', icon: <IconTelegram /> },
   { id: 'wakatime', text: 'wakatime', description: 'coding stats', url: 'https://wakatime.com/@coup', photoUrl: 'http://i.faustyu.xyz/icons/coup/wakatime.JPG', icon: <IconWakatime /> },
   { id: 'github', text: 'github', description: 'i code', url: 'https://github.com/coupdev', photoUrl: 'http://i.faustyu.xyz/icons/coup/github.JPG', icon: <IconGitHub /> },
   { id: 'steam', text: 'steam', description: 'gaming profile', url: 'https://steamcommunity.com/id/coupick/', photoUrl: 'http://i.faustyu.xyz/icons/coup/steam.JPG', icon: <IconSteam /> },
